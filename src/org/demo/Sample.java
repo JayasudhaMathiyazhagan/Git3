@@ -9,6 +9,10 @@ public class Sample {
 		System.out.println("B");
 	}
 
+	private void c() {
+		System.out.println("C");
+	}
+
 	private void d() {
 		System.out.println("D");
 	}
