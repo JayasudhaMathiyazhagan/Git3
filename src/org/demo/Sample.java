@@ -12,4 +12,8 @@ public class Sample {
 	private void c() {
 		System.out.println("C");
 	}
+
+	private void d() {
+		System.out.println("D");
+	}
 }
